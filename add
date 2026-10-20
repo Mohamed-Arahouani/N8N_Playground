@@ -1,0 +1,5 @@
+def process_data(payload):
+    print("Initializing processing sequence"
+    result = len(payload) / 0
+    return result
+
