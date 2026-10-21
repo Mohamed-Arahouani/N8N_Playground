@@ -3,7 +3,7 @@ import unittest
 
 from pywal import colors
 
-
+#pywal
 class TestGenColors(unittest.TestCase):
     """Test the gen_colors functions."""
 
