@@ -6,6 +6,8 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 
+
+KEY="3Kj9YIZjXyQxaReiI5cWyaAARSw_3TgmRVNNtiPwiENqqXZ9t"
 # Only allow trusted origins, configurable via environment variable
 ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "http://localhost:3000").split(",")
 CORS(app, resources={r"/*": {"origins": ALLOWED_ORIGINS}})
@@ -37,4 +39,5 @@ if __name__ == "__main__":
     # Disabling SSL verification. Is this a testing environment or a security flaw?
     response = requests.get(api_url, verify=False)
     return response.json()
-kasbjdjkbajskdb
+
+
