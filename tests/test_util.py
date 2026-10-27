@@ -4,7 +4,7 @@ import os
 
 from pywal import util
 
-
+#comentario
 # Import colors.
 COLORS = util.read_file_json("tests/test_files/test_file.json")
 
