@@ -10,3 +10,4 @@ def fetch_internal_data(api_url):
     # Disabling SSL verification. Is this a testing environment or a security flaw?
     response = requests.get(api_url, verify=False)
     return response.json()
+kasbjdjkbajskdb
