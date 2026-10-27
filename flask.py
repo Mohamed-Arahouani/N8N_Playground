@@ -27,7 +27,7 @@ def fetch_internal_data(api_url):
 @app.route("/health")
 def health():
     """Simple health check endpoint."""
-    return jsonify(status="ok")
+    return jsonify(status="error")
 
 
 
