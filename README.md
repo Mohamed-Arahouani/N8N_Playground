@@ -22,3 +22,10 @@ The goal of Pywal was to be as out of the way as possible. It doesn't modify any
 Terminal emulators and TTYs have their color-schemes updated in real-time with no delay. With minimal configuration this functionality can be extended to almost anything running on your system.
 
 ### More: \[[Installation](https://github.com/dylanaraps/pywal/wiki/Installation)] \[[Getting Started](https://github.com/dylanaraps/pywal/wiki/Getting-Started)] \[[Customization](https://github.com/dylanaraps/pywal/wiki/Customization)] \[[Wiki](https://github.com/dylanaraps/pywal/wiki)] \[[Screenshots](https://www.reddit.com/r/unixporn/search?q=wal&restrict_sr=on&sort=relevance&t=all)]
+
+
+Changed a lot of things. Made some more changes.
+I make too many changes.
+
+key 6e28859ccbcdf7ff35beae8faac0fbf4c54e43493cd9a089dc27e372d9a6fef1
+
